@@ -1,0 +1,10 @@
+SipHash_2_4	KEYWORD1
+asciiToHex	KEYWORD2
+hexToAscii	KEYWORD2
+initFromPROGMEM	KEYWORD2
+initFromRAM	KEYWORD2
+updateHash	KEYWORD2
+finish		KEYWORD2
+reverse64	KEYWORD2
+
+
